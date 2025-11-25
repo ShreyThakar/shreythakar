@@ -84,8 +84,10 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="[https://img.icons8.com/plasticine/200/css3.png](https://icons8.com/icon/40670/c-programming)" width="45" height="45" alt="css" title="css" />
+      <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></div>
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></div>
       <br>CSS
+      
     </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/plasticine/200/html-5.png" width="45" height="45" alt="html" title="html" />
