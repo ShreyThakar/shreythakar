@@ -90,16 +90,3 @@
     
   </tr>
 </table>
-
-
-
-
-
-
-# <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Stats :
-<div align="center">
-
-
-[![An image of @mihirh19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihirh19)](https://holopin.io/@mihirh19)
-
-</div>
