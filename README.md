@@ -17,9 +17,9 @@
 ## 🌐 Socials:
 <table align="center">
   <tr>
-    <td>
+    /*<td>
       <a href = "https://facebook.com/mihir2107"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/facebook-new.png" /> </a> 
-    </td>
+    </td>*/
     <td>
       <a href = "https://www.instagram.com/_mihirh.21"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" /></a> 
     </td>
