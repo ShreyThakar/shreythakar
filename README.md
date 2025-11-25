@@ -42,7 +42,7 @@
 <a href = "https://www.youtube.com/channel/UCjBiyOWjudpNUWcq5n2rCcQ"><img height="60" width="60" src="https://img.icons8.com/doodle/48/youtube-play--v2.png" /></a>
     </td>
      
-     <td>
+  <td>
       <a href = "https://monkeytype.com/profile/mihir2004"><img height="40" width="40" src="https://cdn.simpleicons.org/monkeytype" /></a> 
     </td>
     
