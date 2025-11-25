@@ -69,12 +69,11 @@
 
 # 💫 About Me:
 
-  - 🔭 I am Student of Information Technology 🎓 at G H Patel College of Engineering & Technology
-    
-  - 🌱 I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  
+  - 🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY
+  - 🌱 I'm currently in to devops <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - 🤔 I'm looking at **Blockchain, AI-ML**
-  
+  - 💬 Ask me about **Docker, linux, k8s**
+
 <hr>
 
 # ⚡ Tech Stack:
@@ -84,10 +83,8 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></div>
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></div>
+      <img src="https://img.icons8.com/plasticine/200/css3.png" width="45" height="45" alt="css" title="css" />
       <br>CSS
-      
     </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/plasticine/200/html-5.png" width="45" height="45" alt="html" title="html" />
