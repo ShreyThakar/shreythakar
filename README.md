@@ -17,9 +17,9 @@
 ## 🌐 Socials:
 <table align="center">
   <tr>
-    /*<td>
+    <td>
       <a href = "https://facebook.com/mihir2107"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/facebook-new.png" /> </a> 
-    </td>*/
+    </td>
     <td>
       <a href = "https://www.instagram.com/_mihirh.21"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" /></a> 
     </td>
@@ -69,11 +69,10 @@
 
 # 💫 About Me:
 
-  - 🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY
-  - 🌱 I'm currently in to devops <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  - 🔭 I am Student of G H Patel College of Engineering & Technology
+  - 🌱 I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - 🤔 I'm looking at **Blockchain, AI-ML**
-  - 💬 Ask me about **Docker, linux, k8s**
-
+  
 <hr>
 
 # ⚡ Tech Stack:
@@ -83,7 +82,7 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://img.icons8.com/plasticine/200/css3.png" width="45" height="45" alt="css" title="css" />
+      <img src="[https://img.icons8.com/plasticine/200/css3.png](https://icons8.com/icon/40670/c-programming)" width="45" height="45" alt="css" title="css" />
       <br>CSS
     </td>
     <td align="center" width="90">
