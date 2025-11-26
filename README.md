@@ -27,7 +27,7 @@
       <a href = "https://facebook.com/"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/facebook-new.png" /> </a> 
     </td>
     <td>
-      <a href = "https://www.instagram.com/"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" /></a> 
+      <a href = "https://www.instagram.com/_shr.3y/"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" /></a> 
     </td>
     
 
