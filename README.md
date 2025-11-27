@@ -21,7 +21,7 @@
       <a href = "https://www.linkedin.com/in/shrey-thakar-691294373/"><img height="60" width="60" src="https://img.icons8.com/doodle/48/linkedin--v2.png" /></a> 
     </td>
     <td>
-      <a href = "https://leetcode.com//"><img height="60" width="60" src="https://cdn.simpleicons.org/leetcode" /></a> 
+      <a href = "https://leetcode.com/u/ShreyThakar/"><img height="60" width="60" src="https://cdn.simpleicons.org/leetcode" /></a> 
     </td>
     <!--<td>
       <a href = "https://facebook.com/"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/facebook-new.png" /> </a> 
