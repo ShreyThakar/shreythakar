@@ -67,7 +67,7 @@
   <br>C
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="css" title="C++" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="c++" title="C++" />
       <br>C++    
     </td>
     <td align="center" width="90">
