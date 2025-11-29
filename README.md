@@ -78,11 +78,11 @@
       <img src="https://img.icons8.com/plasticine/200/css3.png" width="45" height="45" alt="css" title="css" />
       <br>CSS      
     </td>
-  <!--
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="java" title="java" />
       <br>Java
     </td>
+    <!--
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="python" title="python" />
       <br>Python
