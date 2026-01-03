@@ -49,7 +49,7 @@
 # 💫 About Me:
 
   - 🔭 I am Student of Information Technology 🎓 at G H Patel College of Engineering & Technology
-  - 🌱 I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  - 🌱 I'm learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
   - 🤔 I’m exploring **AI and Machine Learning**
 
