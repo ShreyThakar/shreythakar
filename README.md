@@ -23,10 +23,10 @@
     <td>
       <a href = "https://www.hackerrank.com/profile/ShreyThakar"><img height="60" width="60" src="https://img.icons8.com/?size=100&id=bcdiBt8pFXfZ&format=png&color=000000" /></a> 
     </td>
-    <!--<td>
+    <td>
       <a href = "https://leetcode.com/u/ShreyThakar/"><img height="60" width="60" src="https://cdn.simpleicons.org/leetcode" /></a> 
     </td>
-    <td>
+    <!--<td>
       <a href = "https://facebook.com/"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/facebook-new.png" /> </a> 
     </td>-->
     <td>
